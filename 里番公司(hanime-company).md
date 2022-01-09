@@ -1,6 +1,6 @@
 里番公司
 
-a1c 旗下发行名义
+##a1c 旗下发行名义
     2匹目のどぜう
     Collaboration Works    
     PoRO    
